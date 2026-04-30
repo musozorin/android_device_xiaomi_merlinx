@@ -1,11 +1,8 @@
 # Device tree for Redmi Note 9
 
 ```
-#
 # Copyright (C) 2022 The LineageOS Project
-#
 # SPDX-License-Identifier: Apache-2.0
-#
 ```
 
 The Xiaomi Redmi Note 9 (codenamed _"merlinx"_) is an entry-level smartphone from Xiaomi announced in April 2020.
@@ -34,3 +31,4 @@ The Xiaomi Redmi Note 9 (codenamed _"merlinx"_) is an entry-level smartphone fro
 ## Device Picture
 
 ![Xiaomi Redmi Note 9](https://i01.appmifile.com/webfile/globalimg/sg/cms/C954339F-A02F-47F0-648A-E99767C03544.jpg)
+End.
